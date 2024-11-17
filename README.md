@@ -78,8 +78,13 @@ The app will provide the following:
 - **A table with the calculated beta, alpha, and expected return for each stock.
 - **Sharpe ratios and volatility for the selected stocks.
 
+![image](https://github.com/CodexSpy/CAPM-ARC/blob/main/CAMP.png)
+![image](https://github.com/CodexSpy/CAPM-ARC/blob/main/CAMP1.png)
+
+
 
 ## Acknowledgments
 - Streamlit: For making it easy to build and share web apps for data science.
 - yfinance: For providing an easy-to-use library for fetching stock data.
 - Plotly: For enabling interactive data visualizations.
+

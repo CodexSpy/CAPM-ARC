@@ -79,7 +79,7 @@ The app will provide the following:
 - **Sharpe ratios and volatility for the selected stocks.
 
 
-Acknowledgments
-Streamlit: For making it easy to build and share web apps for data science.
-yfinance: For providing an easy-to-use library for fetching stock data.
-Plotly: For enabling interactive data visualizations.
+## Acknowledgments
+- Streamlit: For making it easy to build and share web apps for data science.
+- yfinance: For providing an easy-to-use library for fetching stock data.
+- Plotly: For enabling interactive data visualizations.
